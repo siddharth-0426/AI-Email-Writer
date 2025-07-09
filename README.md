@@ -7,13 +7,13 @@
 ## Screenshots
 
 ### Gmail Reply 
-![AI Reply Button](assets/screenshots/Screenshot 2025-07-08 224111.png)
+![AI Reply Button](assets/screenshots/gmail-reply.png)
 
 ### React Web App
-![Generated Reply](assets/screenshots/Screenshot 2025-07-08 224546.png)
+![Generated Reply](assets/screenshots/react-web-app.png)
 
 ### Extension Page View
-![Extension Page](assets/screenshots/Screenshot 2025-07-08 224626.png)
+![Extension Page](assets/screenshots/extension-page-view.png)
 
 ---
 
@@ -43,7 +43,7 @@ POST /api/email/generate
 #### Purpose
 - Embeds an **AI Reply** button inside Gmail’s compose window
 
-#### 🔍 Functionality
+#### Functionality
 - Detects Gmail compose interface via MutationObserver
 - Injects a custom "AI Reply" button into Gmail's toolbar
 - Extracts original email content from the DOM
@@ -71,7 +71,7 @@ POST /api/email/generate
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer        | Stack                          |
 |--------------|--------------------------------|
