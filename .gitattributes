@@ -1,0 +1,3 @@
+email-writer-db/**/*.java linguist-detectable=true
+email-writer-db/**/*.xml linguist-detectable=true
+email-writer-db/**/application.properties linguist-detectable=true
